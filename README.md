@@ -16,7 +16,7 @@ I'm passionate about cybersecurity and information technology and love tackling 
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="_https://www.linkedin.com/in/robert-karlen-910794209/| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="_https://www.linkedin.com/in/robert-karlen-910794209/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/_https://www.linkedin.com/in/robert-karlen-910794209/
 
