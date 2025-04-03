@@ -17,7 +17,7 @@ I'm passionate about I.T. and cybersecurity and love tackling complex challenges
 ## 🤳 Connect With Me
 
 
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="www.linkedin.com/in/robert-karlen-910794209 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
