@@ -24,8 +24,6 @@
     Example syntax:
     PS C:\> .\__remediation_template(STIG-ID-WN10-AU-000500).ps1 
 #>
-New-Item -Path "HKLM:\SOFTWARE\Policies\Microsoft\Windows NT\Printers" -ErrorAction SilentlyContinue | Out-Null
-Set-ItemProperty -Path "HKLM:\SOFTWARE\Policies\Microsoft\Windows NT\Printers" `
-                 -Name "DisableHTTPPrinting" `
-                 -Value 1 `
-                 -Type DWord
+# Disable Windows Game Recording and Broadcasting (Game DVR)
+New-Item -Path "HKLM:\SOFTWARE\Policies\Microsoft\Windows\" -Name "GameDVR" -Force
+Set-ItemProperty -Path "HKLM:\SOFTWARE\Policies\Microsoft\Windows\GameDVR" -Name "AllowGameDVR" -Type DWord -Value 0
