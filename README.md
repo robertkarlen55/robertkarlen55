@@ -6,7 +6,7 @@ I'm passionate about I.T. and cybersecurity and love tackling complex challenges
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/robertkarlen55/Vulnerability-Management-Projects)**
--
+- [Threat Hunt Suspicious Powershell Activity](https://github.com/robertkarlen55/Threat-Hunt-Suspicious-Powershell-Activity)
 
 ## 🚨 Threat Hunting and Security Operations
 
